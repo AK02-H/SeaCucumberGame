@@ -1,11 +1,11 @@
 /************************************************/
 /*	Sea Cucumber Game	    	        */
-/*	Programmer : Niblet, Amin Khan		*/
+/*	Programmer : Amin 'AK' Khan		*/
 /*	Date : 11th May, 2022	                */
 /*	Email : akhan2019@elam.co.uk            */
-/* 	Webpages : https://niblet.itch.io/	*/
-/*             https://github.com/Niblet-0	*/
-/* 	Discord : Niblet#7617		        */
+/* 	Webpages : https://github.com/AK02-H	*/
+/*             					*/
+/* 					        */
 /* 	                    		        */
 /* 	Made for Teesside university		*/
 /* 	Uhh, don't redistribute source code     */
